@@ -51,3 +51,14 @@ You can download the annotation files and use them directly in:
 * PyTorch / Detectron2
 * OpenCV pipelines
 * Custom ML training workflows
+  
+Future Enhancements
+* Add segmentation masks
+* Add more diverse weather/time conditions
+* Increase dataset size
+* Train a YOLO model using these annotations and upload results
+* Add validation scripts or notebook
+
+License This project is open-source under the MIT License. You are free to use, modify, and distribute it for educational or research purposes.
+
+Author Sivadhanya S Computer Science and Engineering Student Email: sivadhanya5757@gmail.com LinkedIn: www.linkedin.com/in/sivadhanya-s-432a7425a GitHub: GitHub: https://github.com/Sivadhanya08/Street-Object-Detection-Bounding-Box-Annotations
